@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-[![Felipe Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincopeiro)](https://github.com/sincopeiro/github-readme-stats)
+[![Felipe Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincopeiro&show_icons=true))](https://github.com/sincopeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Stack
