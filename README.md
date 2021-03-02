@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://www.linkedin.com/in/tassiaaccioly/">
+<a target="_blank" href="https://www.linkedin.com/in/affreitas/">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.twitter.com/itsmetherogue">
-  <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a target="_blank" href="mailto:tassia.accioly@gmail.com">
+<a target="_blank" href="mailto:afelipe.fretas@gmail.com">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
