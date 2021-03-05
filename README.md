@@ -1,10 +1,10 @@
 # Hi, Felipe here 👋
 
 <a target="_blank" href="https://www.linkedin.com/in/affreitas/">
-  <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:afelipe.fretas@gmail.com">
-  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 [![Felipe Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincopeiro&theme=synthwave&show_icons=true)](https://github.com/sincopeiro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincopeiro&theme=synthwave&layout=compact)](https://github.com/sincopeiro/github-readme-stats)
 
 
 ## My Stack
