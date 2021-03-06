@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 ## If you want to see some highlights of my production so far, check:
 - [Fight Club](https://github.com/sincopeiro/fight-club-game)
 - [Datify](https://github.com/sincopeiro/datify)
-- Spotify Searcher
-- BitCoin Real Time Graph
-- Nutrition App
+- [Wiki Countries](https://github.com/sincopeiro/lab-wiki-countries)
+- [Spotify Searcher](https://github.com/sincopeiro/lab-express-spotify)
+- [BitCoin Real Time Graph](https://github.com/sincopeiro/lab-financial-data-graphing-collaborative)
+- [Nutrition App](https://github.com/sincopeiro/lab-react-ironnutrition)
 
 ## GitHub Stats
 
