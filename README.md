@@ -12,6 +12,10 @@
 
 ![](https://www.codewars.com/users/sincopeiro/badges/micro)
 
+I have been working in sales for almost three years, and I am now making a transition into web development. I love to solve problems, face challenges and I'm excited about the possibilities of technology transforming society. Furthermore: killer public speaking skills, a background in business development, and a creative mind for concepts.
+
+Recently, I graduated from Ironhack São Paulo's Web Development boot camp, and currently, I'm seeking entry-level full-stack web development opportunities. If you'd like to work together, feel free to connect via LinkedIn or contact me directly at afelipe.freitas@gmail.com
+
 <!--
 **sincopeiro/sincopeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
