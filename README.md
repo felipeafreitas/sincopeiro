@@ -16,21 +16,6 @@ I have been working in sales for almost three years, and I am now making a trans
 
 Recently, I graduated from Ironhack São Paulo's Web Development boot camp, and currently, I'm seeking entry-level full-stack web development opportunities. If you'd like to work together, feel free to connect via LinkedIn or contact me directly at afelipe.freitas@gmail.com
 
-<!--
-**sincopeiro/sincopeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## If you want to see some highlights of my production so far, check:
 - [Fight Club](https://github.com/sincopeiro/fight-club-game)
 - [Datify](https://github.com/sincopeiro/datify)
@@ -45,6 +30,7 @@ Here are some ideas to get you started:
 [![Felipe Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincopeiro&theme=synthwave&show_icons=true)](https://github.com/sincopeiro/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincopeiro&theme=synthwave&layout=compact)](https://github.com/sincopeiro/github-readme-stats)
 
+<a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>
 
 ## My Stack
 
