@@ -7,7 +7,7 @@
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a>
-  ![](https://www.codewars.com/users/sincopeiro/badges/micro)
+  ![Codewars](https://www.codewars.com/users/sincopeiro/badges/micro)
 </a>
 
 <br>
@@ -28,12 +28,12 @@ If you'd like to work together, feel free to connect via LinkedIn or contact me 
 - [Datify](https://github.com/sincopeiro/datify)
 - [Oddmarket](https://github.com/LBWKH/OddMarket---Client)
 
+| <a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>
+
 ## GitHub Stats
 
 [![Felipe Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincopeiro&theme=synthwave&show_icons=true)](https://github.com/sincopeiro/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincopeiro&theme=synthwave&layout=compact)](https://github.com/sincopeiro/github-readme-stats)
-
-<a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>
 
 ## My Stack
 
