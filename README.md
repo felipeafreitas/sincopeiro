@@ -13,22 +13,23 @@
 <br>
 <br>
 
-
+|
 ❯ Fascinated about the possibilities that technology provides to change the world, I decided to work in the area after finishing a degree in International Relations at UNESP, one of the biggest and most important Brazilian universities, and work for a while as a salesman.
 
 ❯ After concluding Ironhack's Full Stack Web Development Bootcamp, I started my career as a Frontend Developer and helped to develop and design high-performance user interfaces. I'm always focused on delivering interactive, usability, scalable, and visually appealing applications.
 
 ❯ Above all, I'm passionate about technology, web development, and continuous learning. Comfortable building things from scratch, crazy about clean code and constructive feedback, very communicative, and love to document everything.
 
-If you'd like to work together, feel free to connect via LinkedIn or contact me directly at afelipe.freitas@gmail.com
+If you'd like to work together, feel free to connect via LinkedIn or contact me directly at afelipe.freitas@gmail.com 
+|
+<a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>
+
 
 ## If you want to see some highlights of my production so far, check:
 - [Concord](https://github.com/sincopeiro/concord)
 - [Fight Club](https://github.com/sincopeiro/fight-club-game)
 - [Datify](https://github.com/sincopeiro/datify)
 - [Oddmarket](https://github.com/LBWKH/OddMarket---Client)
-
-| <a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>
 
 ## GitHub Stats
 
