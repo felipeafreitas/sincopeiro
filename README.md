@@ -6,7 +6,9 @@
 <a target="_blank" href="mailto:afelipe.fretas@gmail.com">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-![](https://www.codewars.com/users/sincopeiro/badges/micro)
+<a>
+  ![](https://www.codewars.com/users/sincopeiro/badges/micro)
+</a>
 
 <br>
 <br>
