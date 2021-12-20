@@ -6,14 +6,15 @@
 <a target="_blank" href="mailto:afelipe.fretas@gmail.com">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a>
-  ![Codewars](https://www.codewars.com/users/sincopeiro/badges/micro)
-</a>
 
 <br>
 <br>
 
-|
+![Codewars](https://www.codewars.com/users/sincopeiro/badges/micro)
+
+<table>
+  <tr>
+    <td>
 ❯ Fascinated about the possibilities that technology provides to change the world, I decided to work in the area after finishing a degree in International Relations at UNESP, one of the biggest and most important Brazilian universities, and work for a while as a salesman.
 
 ❯ After concluding Ironhack's Full Stack Web Development Bootcamp, I started my career as a Frontend Developer and helped to develop and design high-performance user interfaces. I'm always focused on delivering interactive, usability, scalable, and visually appealing applications.
@@ -21,8 +22,14 @@
 ❯ Above all, I'm passionate about technology, web development, and continuous learning. Comfortable building things from scratch, crazy about clean code and constructive feedback, very communicative, and love to document everything.
 
 If you'd like to work together, feel free to connect via LinkedIn or contact me directly at afelipe.freitas@gmail.com 
-|
-<a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>
+      </td>
+
+    <td>
+<a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>,
+      </td>
+    </tr>
+  
+</table>
 
 
 ## If you want to see some highlights of my production so far, check:
