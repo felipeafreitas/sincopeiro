@@ -6,11 +6,11 @@
 <a target="_blank" href="mailto:afelipe.fretas@gmail.com">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br>
-<br>
-
 ![](https://www.codewars.com/users/sincopeiro/badges/micro)
+
+<br>
+<br>
+
 
 ❯ Fascinated about the possibilities that technology provides to change the world, I decided to work in the area after finishing a degree in International Relations at UNESP, one of the biggest and most important Brazilian universities, and work for a while as a salesman.
 
