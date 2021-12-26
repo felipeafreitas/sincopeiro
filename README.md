@@ -1,4 +1,4 @@
-# Hi, Felipe here 👋
+# Hi, I'm Felipe, I'm a fullstack developer 👋
 
 <a target="_blank" href="https://www.linkedin.com/in/affreitas/">
   <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,15 +12,26 @@
 
 ![Codewars](https://www.codewars.com/users/sincopeiro/badges/micro)
 
-❯ Fascinated about the possibilities that technology provides to change the world, I decided to work in the area after finishing a degree in International Relations at UNESP, one of the biggest and most important Brazilian universities, and work for a while as a salesman.
 
+<table style="border:0px" border="0">
+ <tr border="0">
+    <td width="50%" border="0" >❯ Fascinated about the possibilities that technology provides to change the world, I decided to work in the area after finishing a degree in International Relations at UNESP, one of the biggest and most important Brazilian universities, and work for a while as a salesman.
+<br>
+<br>
 ❯ After concluding Ironhack's Full Stack Web Development Bootcamp, I started my career as a Frontend Developer and helped to develop and design high-performance user interfaces. I'm always focused on delivering interactive, usability, scalable, and visually appealing applications.
-
+<br>
+<br>
 ❯ Above all, I'm passionate about technology, web development, and continuous learning. Comfortable building things from scratch, crazy about clean code and constructive feedback, very communicative, and love to document everything.
+<br>
+<br>
+If you'd like to work together, feel free to connect via LinkedIn or contact me directly at afelipe.freitas@gmail.com </td>
+    <td><a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>.</td>
+ </tr>
+</table>
 
-If you'd like to work together, feel free to connect via LinkedIn or contact me directly at afelipe.freitas@gmail.com 
 
-<a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>,
+
+
 
 ## GitHub Stats
 
