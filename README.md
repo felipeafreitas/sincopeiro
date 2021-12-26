@@ -22,13 +22,6 @@ If you'd like to work together, feel free to connect via LinkedIn or contact me 
 
 <a href="https://app.daily.dev/felipefreitas"><img src="https://api.daily.dev/devcards/85c800fd403b4f97a27f97f71fcf5297.png?r=ca8" width="400" alt="Felipe Freitas's Dev Card"/></a>,
 
-
-## If you want to see some highlights of my production so far, check:
-- [Concord](https://github.com/sincopeiro/concord)
-- [Fight Club](https://github.com/sincopeiro/fight-club-game)
-- [Datify](https://github.com/sincopeiro/datify)
-- [Oddmarket](https://github.com/LBWKH/OddMarket---Client)
-
 ## GitHub Stats
 
 [![Felipe Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincopeiro&theme=synthwave&show_icons=true)](https://github.com/sincopeiro/github-readme-stats)
